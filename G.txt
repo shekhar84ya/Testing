@@ -4,3 +4,4 @@ reddit.com
 thegaurdian.com
 thehindu.com
 https://example.com/
+reddit.com##.grid-container.theme-rpl.grid.flex-nav-expanded
