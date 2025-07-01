@@ -3,4 +3,4 @@ nytimes.com
 reddit.com
 thegaurdian.com
 thehindu.com
-http://example.com/
+https://example.com/
